@@ -1,2 +1,2 @@
 # cube
-for help to master  cube OLL.
+to help master the Rubic cube OLL.
