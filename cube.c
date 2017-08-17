@@ -17,7 +17,7 @@ int main (void){
         ActNum = ch - '0';
 		printf ("%c\n", ch);
 		switch (ActNum){
-			case 1:	{ //{}不可省略
+            case 1:	{ //{}cannot be omitted?
 				int NPosNum, temp;				
 				printf ("Normal Pose(refer OLL charts,0:loaded): ");
 				scanf ("%d", &NPosNum);
