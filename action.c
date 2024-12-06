@@ -8,8 +8,8 @@ void relocate(int a[], int b[], int flag) {
 
 void ForBackRotate(int a[],int p, int fbrflag){
     int i,k,*pa,sa[4];
-	for(i=0;i<4;i++)
-		sa[i]=a[i];
+	for(i = 0; i < 4; i++)
+		sa[i] = a[i];
     if (fbrflag == 6){
 	    if(3==p){
 	    	a[0]=sa[2];
